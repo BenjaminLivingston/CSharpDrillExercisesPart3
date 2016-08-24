@@ -1,0 +1,10 @@
+
+Log Entry:Date: 08/24/2016 03:40:01
+Error Type: System.FormatException
+Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at CSharpDrillExercisesPart3.Exercises.Main(String[] args) in C:\Users\Owner\documents\visual studio 2015\Projects\CSharpDrillExercisesPart3\CSharpDrillExercisesPart3\Exercises.cs:line 26
+Source: mscorlib
+TargetSite: Double ParseDouble(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+----------------------------------------------------------------
